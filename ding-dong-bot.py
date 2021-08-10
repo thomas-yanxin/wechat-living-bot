@@ -27,8 +27,8 @@ from wechaty import Wechaty, Contact
 from wechaty.user import Message
 from typing import Optional, Union
 from wechaty.user import Message, Room
-os.environ['WECHATY_PUPPET_SERVICE_ENDPOINT'] = '106.15.108.17:8080'
-os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'puppet_padlocal_347581424536439aa833844a877bd082'
+os.environ['WECHATY_PUPPET_SERVICE_ENDPOINT'] = 'ip'
+os.environ['WECHATY_PUPPET_SERVICE_TOKEN'] = 'your token'
 
 
 from wechaty import (
