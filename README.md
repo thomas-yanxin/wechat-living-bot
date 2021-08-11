@@ -1,7 +1,8 @@
 # 『PaddlePaddle X Wechaty』有颜又有才的Living_Bot
 
 ## 视频奉上先
-[BiliBili视频](https://www.bilibili.com/video/BV1pf4y1V7G8/)
+[BiliBili视频](https://www.bilibili.com/video/BV1pf4y1V7G8/)  
+
 [AIStudio地址（本项目全部相关文件放在此地址中可供下载）](https://aistudio.baidu.com/aistudio/projectdetail/2272396)
 ## wechaty介绍
 ![](https://img-blog.csdnimg.cn/img_convert/da820e713203830cc13cbc3ef6eb1d7d.png)
