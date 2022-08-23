@@ -1,5 +1,9 @@
 # 『PaddlePaddle X Wechaty』有颜又有才的Living_Bot
 
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://wechaty.js.org)
+[![Wechaty Contributor Program](https://img.shields.io/badge/Wechaty-Contributor%20Program-green.svg)](https://wechaty.js.org/docs/contributor-program)
+[![Juzi.BOT Developer Program](https://img.shields.io/badge/Wechaty%Contributor%20Program-Juzi.BOT-orange.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty/)
+
 ## 视频奉上先
 [BiliBili视频](https://www.bilibili.com/video/BV1pf4y1V7G8/)  
 
